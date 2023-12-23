@@ -1,0 +1,20 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "chand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "modules": "^0.4.0",
+    "mongoose": "^6.12.3",
+    "validator": "^13.11.0"
+  }
+}
